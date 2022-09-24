@@ -1,0 +1,12 @@
+body,
+p,
+td,
+th,
+thead,
+h5 {
+  color: white;
+}
+.bg-nagalay {
+  background: #171717;
+  min-height: 100vh;
+}
