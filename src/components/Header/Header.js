@@ -28,7 +28,7 @@ const header = () => {
           <Navbar.Toggle />
           <Navbar.Collapse className="justify-content-end">
             <Navbar.Text>
-              <a className="text-white" href="login">
+              <a className="text-white" href="signup">
                 Became a Host
               </a>
             </Navbar.Text>
